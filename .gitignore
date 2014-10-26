@@ -25,6 +25,13 @@ xcuserdata
 *.xcworkspacedata
 *.ipa
  
-*.xcworkspace
 Podfile.lock
 Pods
+ 
+*.xcodeproj/xcuserdata/*.xcuserdatad
+ 
+*.xccheckout
+*.xcuserdatad
+ 
+DerivedData
+build
